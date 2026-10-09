@@ -5,6 +5,29 @@
 
 ---
 
+## 关于作者
+
+独立开发者，曾就职于 [华为] 等大厂，超过12年云计算研发，精通ES云服务，擅长JAVA, Python开发，独立运营snapbyface人脸识别、照片分组项目，专注于桌面端 AI 工具产品
+
+- X (Twitter)：https://x.com/@DengXiaoho71001
+- YouTube：https://www.youtube.com/@xiaohongdeng-q1y
+- 知乎：https://www.zhihu.com/people/exeta1
+- Product Hunt：https://www.producthunt.com/products/snapbyface?launch=snapbyface
+
+## 我的产品 —— SnapByFace
+
+SnapByFace 是一款离线优先的桌面端人脸搜索与整理工具，支持 macOS 与 Windows。
+
+- **本地 AI 识别**：基于 ONNX Runtime 的人脸检测与特征提取，所有计算在本地完成，照片不离开设备
+- **以图搜图**：导入一张参考人脸，即可在数万张照片中找出同一人的所有照片
+- **视频支持**：不仅支持图片，还支持从视频文件中提取帧进行人脸识别
+- **隐私优先**：无云端依赖，无账号体系，数据完全存储在本地 SQLite 数据库
+- **多语言**：支持中文 / 英文双语界面
+
+官网：https://snapbyface.com/
+
+---
+
 ## 0. 本套文档的坐标
 
 | 项目 | 取值 | 说明 |
