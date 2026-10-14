@@ -14,6 +14,7 @@
 - 知乎：https://www.zhihu.com/people/exeta1
 - Product Hunt：https://www.producthunt.com/products/snapbyface?launch=snapbyface
 - 领英：www.linkedin.com/in/xiaohong-deng-781b1b443
+- github: https://github.com/xiaohongaiweno
 
 ## 我的产品 —— SnapByFace
 
