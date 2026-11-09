@@ -7,7 +7,7 @@
 
 ## 关于作者
 
-独立开发者，曾就职于 [华为] 等大厂，超过12年云计算研发，精通ES云服务，擅长JAVA, Python开发，独立运营snapbyface人脸识别、照片分组项目，专注于桌面端 AI 工具产品
+独立开发者，曾就职于 [华为] 等大厂，超过12年云计算研发，精通ES云服务，擅长JAVA, Python开发，独立运营snapbyface人脸识别、照片分组项目，专注于桌面端 AI 工具产品。同时运营 [SantaWheel](https://santawheel.com) —— 一款创意节日互动产品，通过车轮式抽奖体验为圣诞等节日活动增添趣味，适用于线上营销、团队活动与聚会互动场景。
 
 - X (Twitter)：https://x.com/@DengXiaoho71001
 - YouTube：https://www.youtube.com/@xiaohongdeng-q1y
